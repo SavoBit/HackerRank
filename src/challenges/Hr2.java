@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 import java.util.*;
 import java.text.*;
 import java.math.*;
@@ -13,7 +13,7 @@ import java.io.*;
  *
  * @author ljephson
  */
-public class HackerRank2 {
+public class Hr2 {
  
     static int B,H;
         static boolean flag = false;

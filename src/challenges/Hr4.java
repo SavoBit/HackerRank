@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 import java.util.Scanner;
 
@@ -34,7 +34,7 @@ class MyCalc implements AdvancedArithmetic {
     
 }
 
-public class HackerRank4 {
+public class Hr4 {
     
     public static void main(String []args){
         MyCalc my_calculator = new MyCalc();

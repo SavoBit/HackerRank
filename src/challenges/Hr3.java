@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 
 import java.util.*;
@@ -35,7 +35,7 @@ class MyBook extends Book {
         
     }
 
-public class HackerRank3 {
+public class Hr3 {
     
     public static void main(String[] args) {
         MyBook mb = new MyBook();

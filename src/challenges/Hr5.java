@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 /**
  *
@@ -31,7 +31,7 @@ package hackerrank;
 
     }
 
-public class HackerRank5 {
+public class Hr5 {
 
     public static void main(String[] args) {
         MotorCycle M = new MotorCycle();

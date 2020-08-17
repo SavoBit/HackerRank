@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 import java.io.*;
 import java.math.*;
@@ -17,7 +17,7 @@ import java.util.GregorianCalendar;
  * @author Lee
  */
 
-class Result {
+class Result2 {
 
     /*
      * Complete the 'findDay' function below.
@@ -65,7 +65,7 @@ class Result {
 
 }
 
-public class HR6 {
+public class Hr6 {
     public static void main(String[] args) throws IOException {
         
 
@@ -75,7 +75,7 @@ public class HR6 {
 
         int year = 2015;
 
-        String res = Result.findDay(month, day, year);
+        String res = Result2.findDay(month, day, year);
         
         System.out.println(res);
 

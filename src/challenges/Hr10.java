@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
  *
  * @author Lee
  */
-public class HR10 {
+public class Hr10 {
     
     public static void main(String[] args) {
     

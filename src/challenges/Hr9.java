@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 //import java.util.Arrays;
 import java.util.Scanner;
@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Lee
  */
-public class HR9 {
+public class Hr9 {
     
      public static String getSmallestAndLargest2(String s, int k) {
         String smallest = "";

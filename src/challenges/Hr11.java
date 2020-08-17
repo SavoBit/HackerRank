@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 /**
  *
  * @author Lee
  */
-public class HR11 {
+public class Hr11 {
     
 }

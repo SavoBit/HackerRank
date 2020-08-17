@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 import java.io.IOException;
 import java.util.InputMismatchException;
@@ -13,12 +13,12 @@ import java.util.Scanner;
  *
  * @author Lee
  */
-public class HR8 {
+public class Hr8 {
     
     public static void main(String[] args) {
         
         try {
-            HR8 myhr8 = new HR8();
+            Hr8 myhr8 = new Hr8();
             Scanner sin = new Scanner(System.in);
             int x = sin.nextInt();
             int y = sin.nextInt();

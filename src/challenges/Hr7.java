@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hackerrank;
+package challenges;
 
 import java.io.*;
 import java.util.*;
@@ -15,7 +15,7 @@ import java.util.regex.*;
  *
  * @author Lee
  */
-public class HR7 {
+public class Hr7 {
     
     public static void main(String[] args) {
         Scanner scanin = new Scanner(System.in);
